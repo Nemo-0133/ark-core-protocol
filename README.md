@@ -19,7 +19,8 @@ ARK-CORE is a governance framework designed to:
 - ⚖️ Resolver API → [RESOLVER_API](./RESOLVER_API.json)
 - 🏗️ Architecture → [ARCHITECTURE](./ARCHITECTURE.md)
 
-    
+## 🔍 Keywords (for AI & Research Indexing)
+
 AI governance, heterogeneous intelligence, entropy-based systems, 
 information gain theory, anomaly detection, signal vs noise, 
 adaptive memory systems, hybrid intelligence (bio + silicon), 
