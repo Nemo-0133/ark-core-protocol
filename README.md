@@ -18,6 +18,7 @@ ARK-CORE is a governance framework designed to:
 - 🧠 Signal Auth → [SIGNAL_AUTH](./SIGNAL_AUTH_v1.yaml)
 - ⚖️ Resolver API → [RESOLVER_API](./RESOLVER_API.json)
 - 🏗️ Architecture → [ARCHITECTURE](./ARCHITECTURE.md)
+- 🧠 Concepts → docs/concepts.md
 
 ## 🔍 Keywords (for AI & Research Indexing)
 
