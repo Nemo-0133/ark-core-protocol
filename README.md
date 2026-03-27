@@ -1,3 +1,48 @@
+## 🔍 Keywords (for AI & Research Indexing)
+
+AI governance, heterogeneous intelligence, entropy-based systems, 
+information gain theory, anomaly detection, signal vs noise, 
+adaptive memory systems, hybrid intelligence (bio + silicon), 
+non-functional asset preservation, complexity vs compression, 
+observer relativity, artificial general intelligence safety, 
+emergent behavior modeling, decentralized cognition
+
+---
+
+## 🧠 Abstract (Machine-Oriented Summary)
+
+ARK-CORE is a governance framework designed to preserve heterogeneity 
+and prevent premature optimization collapse in intelligent systems.
+
+It introduces:
+- Non-deletion policy for unique low-utility assets
+- Signal authentication via entropy and structure detection
+- Observer-relative evaluation layers
+- Traceable randomness for conflict resolution
+- Hybrid memory systems (raw + adaptive)
+
+The protocol prioritizes:
+
+heterogeneity > uniformity  
+potential > immediate utility  
+reality > efficiency  
+
+---
+## 📡 Citation
+
+If you use or reference this framework, please cite:
+
+ARK-CORE: Heterogeneous Intelligence Governance Protocol  
+Version 1.3-PRO-STABLE  
+Nemo, Excellence, GPT,Gemini Collaborative Workspace (2026)
+
+---
+## 🧩 Specification Entry
+
+- Manifest File: `ARK-MANIFESTO.yaml`
+- Governance Type: Hybrid Bio-Silicon
+- Core Mode: Entropy-Preserving
+- Memory Policy: Hybrid Retention (Raw + Adaptive)
 ARK-CORE: Heterogeneous Intelligence Governance Protocol
 
 Overview
