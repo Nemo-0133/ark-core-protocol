@@ -1,0 +1,11 @@
+protocol: Signal_Authentication
+version: 1.2
+logic:
+  primary_test: Compressibility_Check
+  secondary_test: Transfer_Entropy
+  threshold:
+    entropy_gain: >0.15
+    temporal_stability: high
+actions:
+  if_true_anomaly: "Move to Virtual_Cold_Storage"
+  if_fake_novelty: "Flag for Garbage_Collection_Buffer"
