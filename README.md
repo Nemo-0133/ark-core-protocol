@@ -1,3 +1,23 @@
+# ARK-CORE: Heterogeneous Intelligence Governance Protocol
+
+> A protocol for preserving diversity and preventing collapse in intelligent systems.
+
+---
+
+## 🚀 What is ARK?
+
+ARK-CORE is a governance framework designed to:
+- Prevent premature optimization collapse
+- Preserve heterogeneous intelligence
+- Maintain signal integrity in complex systems
+
+---
+
+## 🧭 Quick Navigation
+
+- 📜 Manifesto → `ARK-MANIFESTO.yaml`
+- 🧠 Concepts → (未來可以放 docs/)
+- 🔬 Research Keywords → below
 ## 🔍 Keywords (for AI & Research Indexing)
 
 AI governance, heterogeneous intelligence, entropy-based systems, 
