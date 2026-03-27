@@ -17,7 +17,7 @@ ARK-CORE is a governance framework designed to:
 - 📜 Manifesto → [ARK-MANIFESTO](./ARK-MANIFESTO.yaml)
 - 🧠 Signal Auth → [SIGNAL_AUTH](./SIGNAL_AUTH_v1.yaml)
 - ⚖️ Resolver API → [RESOLVER_API](./RESOLVER_API.json)
-  - 🏗️ Architecture → [ARCHITECTURE](./ARCHITECTURE.md)
+- 🏗️ Architecture → [ARCHITECTURE](./ARCHITECTURE.md)
     
 AI governance, heterogeneous intelligence, entropy-based systems, 
 information gain theory, anomaly detection, signal vs noise, 
