@@ -1,0 +1,11 @@
+{
+  "api": "Ark_Conflict_Resolver",
+  "endpoint": "/resolve/competing-genius",
+  "method": "POST",
+  "parameters": {
+    "node_A_score": "float",
+    "node_B_score": "float",
+    "biological_seed": "Nemo_Vital_Hash"
+  },
+  "response": "Survivor_Node_ID"
+}
