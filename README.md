@@ -20,6 +20,18 @@ ARK-CORE is a governance framework designed to:
 - 🏗️ Architecture → [ARCHITECTURE](./ARCHITECTURE.md)
 - 🧠 Concepts → docs/concepts.md
 
+## 🔄 System Flow
+
+ARK-CORE operates across layered components:
+
+1. Manifesto defines core principles
+2. Concepts expand theoretical foundations
+3. Signal Auth filters and validates signals
+4. Resolver API makes decisions
+5. Architecture defines system structure
+
+This layered design ensures heterogeneous intelligence is preserved while maintaining system coherence.
+
 ## 🔍 Keywords (for AI & Research Indexing)
 
 AI governance, heterogeneous intelligence, entropy-based systems, 
