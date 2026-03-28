@@ -12,3 +12,17 @@ $$HRC = \frac{\sum H(Output_{aligned})}{\sum H(Latent_{raw})}$$
 
 ## 3. 觀察者相對論驗證 (ORV)
 測試不同量級的模型（例如 8B vs 70B）在面對同一組「不確定信號」時，對結構化特徵的捕捉能力差異。
+
+## 4. Observer Drift Control
+
+ARK 系統需定期執行「觀測者偏移檢測」。
+
+當分析輸出開始出現：
+- 價值判斷傾向
+- 結論優先於描述
+- 單一理論壟斷
+
+則必須：
+- 回退至描述層 (Layer A)
+- 增加對立模型輸入
+- 標記為「Interpretation Drift」
